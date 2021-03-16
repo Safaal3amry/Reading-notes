@@ -1,8 +1,11 @@
 ## Version Control
-<p> **Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes**
+
+        Version Control is a system that allows you to revisit various versions of
+       a file or set of files by recording changes
   
   # Git
-        Git is a DVCS that stores data in a file system made up of snapshots,we can save achanges version of our project **commit**
+        Git is a DVCS that stores data in a file system made up of snapshots,
+        we can save achanges version of our project **commit**
         
                 
                 
@@ -30,19 +33,21 @@
         *Check File Status
             $ git status 
             
-         We also can do Setting up a Git Repository,Importing,Cloning,Tracking and Staging a New File,Committing a File,Committing All Changes and Pushing Changes
+         We also can do Setting up a Git Repository,Importing,Cloning,Tracking and Staging a New File,
+         Committing a File,Committing All Changes and Pushing Changes.
            
- ###Local Repository Structure
+ ### Local Repository Structure
  ![](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
  
  
  
- ###The Life Cycle of File Status
+ ### The Life Cycle of File Status
  ![](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
   
-  ###Remote Repositories 
+  ### Remote Repositories 
   
-              In order to collaborate on Git projects, you must interact with remote repositories, versions of a project residing online or on a network
+              <p>In order to collaborate on Git projects, you must interact with remote repositories,  
+              <p>versions of a project residing online or on a network
  
    @safa
       
