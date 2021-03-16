@@ -46,6 +46,7 @@
   
   ### Remote Repositories 
   
+ 
               <p>In order to collaborate on Git projects, you must interact with remote repositories,  
               <p>versions of a project residing online or on a network
  
