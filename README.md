@@ -1,0 +1,2 @@
+# stadying
+For education
